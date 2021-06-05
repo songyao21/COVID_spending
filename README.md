@@ -1,1 +1,1 @@
-This repository is to used to share sample codes and public data used in the manuscript "The Impact of Social Distancing and Masking on COVID-19 Spread and Consumer Spending" by Nan Zhao, Raphael Thomadsen, Chong Bo Wang, Song Yao at Olin Business School, Washington University in St. Louis. The most recent working paper version of the paper can be found at Song Yao's website www.songyao.org.
+This repository is to used to share sample codes and public data used in the manuscript "The Impact of Social Distancing and Masking on COVID-19 Spread and Consumer Spending".
