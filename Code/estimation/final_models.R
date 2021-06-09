@@ -1,3 +1,4 @@
+library(lfe)
 
 #load in the data needed
 fit_data_1_demean_final = read.csv("fit_data_1_demean_final.csv")
